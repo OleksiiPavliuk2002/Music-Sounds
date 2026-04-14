@@ -2,4 +2,4 @@
 
 The project looks like:
 
-![music](./music.gif)
+<img src="./music.gif" alt="music" width="800" height="500" />
